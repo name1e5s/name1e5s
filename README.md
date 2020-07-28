@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **name1e5s/name1e5s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:heart: Programming | :blue_heart: Anime
+  
+:fire: Chisel Programmer
+
+
+![Cevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=name1e5s&show_icons=true)
