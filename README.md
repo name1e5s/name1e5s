@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 :fire: Chisel Programmer
 
 
-![Cevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=name1e5s&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=name1e5s&show_icons=true)
