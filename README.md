@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 2022 Todo List:
 
-- [ ] ssh over websocket
-- [ ] new bomblab on x86_64/aarch64
-- [ ] new attacklab on x86_64/aarch64
-- [ ] rust on loongarch
-
+- [ ] windows dmp file analyzer
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=name1e5s&show_icons=true)
