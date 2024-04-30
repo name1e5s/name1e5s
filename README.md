@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:heart: Programming | :blue_heart: Anime
-  
-:fire: Rust Programmer 🦀
+Hai-hsin here! A common programmer you can find everywhere.
 
-2022 Todo List:
+Blog: [https://blog.hai-hs.in](https://blog.hai-hs.in)
 
-- [ ] windows dmp file analyzer
+Reach me at [me@hai-hs.in](mailto:hai-hs.in)
+
+![Github History](https://api.githubtrends.io/user/svg/name1e5s/langs?time_range=one_year&loc_metric=changed&theme=classic)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=name1e5s&show_icons=true)
